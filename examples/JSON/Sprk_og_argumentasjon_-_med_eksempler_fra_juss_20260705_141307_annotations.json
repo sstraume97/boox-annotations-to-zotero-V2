@@ -1,0 +1,405 @@
+{
+  "title": "Språk og argumentasjon - med eksempler fra juss",
+  "authors": "Eivind Kolflaath",
+  "format": "epub",
+  "totalPages": 456,
+  "exportedAt": 1783253587945,
+  "annotations": [
+    {
+      "quote": "rettskildeprinsipper, altså generellenormer for bruk av rettskildefaktorer. Rettskildeprinsippene dreier seg først og fremst om hva som i det hele tatt er relevante rettskildefaktorer, og om hvilken vekt de har i forhold til hverandre",
+      "pageNumber": 0,
+      "chapter": "a Lovtolking inkluderer språktolking",
+      "createdAt": 1754202235963,
+      "color": "#00b036",
+      "style": "wavy",
+      "note": ""
+    },
+    {
+      "quote": "Ta for eksempel ordet «dommer». Innenfor den juridiske konteksten kan ordet bety det samme som «person som er ansatt i dommerstilling», eller det samme som «person som dømmer i rettssaker». Den andre tolkningen vil, i motsetning til den første,også omfatte legdommere.",
+      "pageNumber": 103,
+      "chapter": "c Generelle betydningskontraster",
+      "createdAt": 1754128177183,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": "!\nTolkning av begrepet \"dommer\" i vid og snever forstand."
+    },
+    {
+      "quote": "mer presis'",
+      "pageNumber": 112,
+      "chapter": "b De tre presishetsrelasjonene definert",
+      "createdAt": 1754157688505,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": ""
+    },
+    {
+      "quote": "like presis'",
+      "pageNumber": 112,
+      "chapter": "b De tre presishetsrelasjonene definert",
+      "createdAt": 1754157696492,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": ""
+    },
+    {
+      "quote": "mindre presis'",
+      "pageNumber": 113,
+      "chapter": "b De tre presishetsrelasjonene definert",
+      "createdAt": 1754157706693,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": ""
+    },
+    {
+      "quote": "De tre presishetsrelasjonene vi har definert i denne delseksjonen, er gjensidig utelukkende, det vil si at bare én av relasjonene kan bestå mellom to bestemte uttrykk U og U' i en bestemt kontekst K",
+      "pageNumber": 113,
+      "chapter": "b De tre presishetsrelasjonene definert",
+      "createdAt": 1754157721741,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": ""
+    },
+    {
+      "quote": "Men det finnes altså en fjerde mulighet. Hvis U' oppfyller punkt(1), men ikke punkt (2) i definisjonen av 'mer presis', så representerer U' en tolkningsretning for U i K uten å være mer presis enn U i K, slik tilfellet varmed U3 i delseksjon 2.3a.",
+      "pageNumber": 113,
+      "chapter": "b De tre presishetsrelasjonene definert",
+      "createdAt": 1754157772787,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": ""
+    },
+    {
+      "quote": "Tolkingen avde ulike rettskildefaktorene hver for seg omtales gjerne som «tolking i snever forstand», og avveiningensom «tolking i vid forstand».",
+      "pageNumber": 119,
+      "chapter": "a Lovtolking inkluderer språktolking",
+      "createdAt": 1754202104817,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": "!\nNyttig å huske"
+    },
+    {
+      "quote": "objektivt tolkingsprinsipp",
+      "pageNumber": 147,
+      "chapter": "a Lovtolking inkluderer språktolking",
+      "createdAt": 1754202548588,
+      "color": "#00b036",
+      "style": "wavy",
+      "note": "=\nMeningsinnholdet leseren trekker ut av teksten. Ved tolkning av en lovtekst isolert, blir det objektivte tolkningsprinsipp prioritert"
+    },
+    {
+      "quote": "subjektivt tolkingsprinsipp",
+      "pageNumber": 147,
+      "chapter": "a Lovtolking inkluderer språktolking",
+      "createdAt": 1754202480978,
+      "color": "#00b036",
+      "style": "wavy",
+      "note": "=\nEr tolkning fra lovgiverens perspektiv"
+    },
+    {
+      "quote": "Teleologisk tolkingsprinsipp\nNår vi ser på hvilke tolkninger som best vil ivareta lovens formål, anvender vi det såkalte teleologisketolkingsprinsipp («telos» er gammelgresk for 'mål')",
+      "pageNumber": 152,
+      "chapter": "b Flertydigheter i lovtekster",
+      "createdAt": 1754203530900,
+      "color": "#00b036",
+      "style": "wavy",
+      "note": "="
+    },
+    {
+      "quote": "Presiserende tolk(n)ing",
+      "pageNumber": 156,
+      "chapter": "b Flertydigheter i lovtekster",
+      "createdAt": 1754203900735,
+      "color": "#00b036",
+      "style": "wavy",
+      "note": "="
+    },
+    {
+      "quote": "innskrenkende (lov)tolking blir rettsregelen snevret inn i forhold til ordlyden, slik at visse tilfeller som faller inn underordlydens språklige betydning, faller utenfor rettsregelen. En innskrenkende tolkning er for eksempel aktuelt ved motstrid mellom lovbestemmelser, og når en bestemmelse etter sin ordlyd dekker forhold som ligger utenfor lovens formål",
+      "pageNumber": 156,
+      "chapter": "b Flertydigheter i lovtekster",
+      "createdAt": 1754203938685,
+      "color": "#00b036",
+      "style": "wavy",
+      "note": "="
+    },
+    {
+      "quote": "utvidende tolkning utvide rettsregelen i forhold til ordlyden, slik at rettsregelen også fanger opp visse tilfeller som ikke faller inn under ordlydens språklige betydning. Når ordlyden i en bestemmelse tolkes innskrenkende eller utvidende, dreier det seg ikke om å redusere språklig flertydighet, men om å gå utenfor det som i det hele tatt er mulige (språk)tolkninger av ordlyden. Foranledningen til en innskrenkende eller utvidende tolkning er ikke at ordlyden er flertydig – tvert imot er den vanligvis entydig – men derimot at det finnes andre rettskildefaktorer som tilsier at ordlyden bør settes til side.",
+      "pageNumber": 157,
+      "chapter": "c Flertydighet, vaghet og ufullstendighet",
+      "createdAt": 1754203998962,
+      "color": "#00b036",
+      "style": "wavy",
+      "note": "="
+    },
+    {
+      "quote": "En tolkningsliste er en liste av språklige uttrykk U0,U1,U2,..., hvor U0 er uttrykket som tolkes, og UPU2,... er mulige tolkninger av U0. Generelt er et språklig uttrykk U' en mulig tolkning av U i en kontekst K hvis og bare hvis U og U' kan uttrykke det samme i K.",
+      "pageNumber": 166,
+      "chapter": "c Flertydighet, vaghet og ufullstendighet",
+      "createdAt": 1754207305074,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": "! +"
+    },
+    {
+      "quote": "presiserende tolkning av lovteksten holder seg innenfor ordlydens mulige (språklige) tolkninger, mens innskrenkende og utvidende tolkninger bryter med ordlyden.",
+      "pageNumber": 169,
+      "chapter": "c Flertydighet, vaghet og ufullstendighet",
+      "createdAt": 1754211211560,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": "!\nViktig skille om tolkninger"
+    },
+    {
+      "quote": "retten uttaler at det må foreligge en kvalifisert klanderverdig opptreden somforanlediger sterke bebreidelser for manglende aktsomhet",
+      "pageNumber": 180,
+      "chapter": "b Andre juridiske definisjoner",
+      "createdAt": 1754214792455,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": "[+] [\"]\nHusk denne formuleringen fra HR vdr. \"§ 422, første ledd, kreves grovt uaktsomt forhold.\""
+    },
+    {
+      "quote": "Slike definisjoner er rettslig bindende for dem som inngår kontrakten, med mindre detskulle finnes rettsregler som setter avtalen til side.",
+      "pageNumber": 182,
+      "chapter": "c Juridiske definisjoner er normative",
+      "createdAt": 1754224599387,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": "[+]\n[?] Jeg antar en forenings vedtekter må kunne sies å være en kontrakt for mellom medlemmer, tillitsvalgte og foreningen som juridisk person."
+    },
+    {
+      "quote": "Det at uttrykket allerede har en betydning i dagligtalen, eller til og med i en annen lov — spiller ingen rolle. Lovgiver ståri prinsippet fritt til å gi uttrykket en hvilken som helst betydning.",
+      "pageNumber": 183,
+      "chapter": "c Juridiske definisjoner er normative",
+      "createdAt": 1754224894558,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": "[!]\nHer kan paralellen trekkes til definisjon av begreper i vedtekter"
+    },
+    {
+      "quote": "Legaldefinisjoner blir først og fremst utformet med tanke på hva som gir de mest ønskelige rettsreglene, og ikke på hva som er etablerte bruksmåter i dagligtalen",
+      "pageNumber": 184,
+      "chapter": "",
+      "createdAt": 1755067362906,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": "[!]\nDette er viktig å huske. Måten en del begreper defineres er langt fra bruken i dagligtalen."
+    },
+    {
+      "quote": "Dreier det seg om en privat bedrift, er det ikke opplagt at det er den juridiske betydningen som skal legges til grunn det kan for eksempel tenkes at ordet «korrupsjon» i denne sammenhengen heller skal knyttes til bedriftens interne etikkreglement.",
+      "pageNumber": 189,
+      "chapter": "",
+      "createdAt": 1755152651037,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": ""
+    },
+    {
+      "quote": "I visse tilfeller kan det likevel være greit å ta med et element som strengt tatt er overflødig, for at det ikke skal herske den minste tvil om at ogsådette skal være med i omfanget.",
+      "pageNumber": 202,
+      "chapter": "",
+      "createdAt": 1755155184659,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": ""
+    },
+    {
+      "quote": "Kravene til normative definisjoner er ikke de sammesom til deskriptive definisjoner. En deskriptiv definisjon er en påstand om hvordan et språklig uttrykk vanligvis blir brukt i en bestemt kontekst, eller helt allment.",
+      "pageNumber": 221,
+      "chapter": "",
+      "createdAt": 1755156946514,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": "Et viktig skille"
+    },
+    {
+      "quote": "kategorien 'sykdomstilfelle' er valgt for at omfanget ikke skal inkludere alle tilfeller av en bestemt sykdomstype.",
+      "pageNumber": 236,
+      "chapter": "c Krav om hensiktsmessig omfang",
+      "createdAt": 1756727709762,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": ""
+    },
+    {
+      "quote": "deskriptive standpunkter.",
+      "pageNumber": 239,
+      "chapter": "5 Deskriptivargumentasjon",
+      "createdAt": 1782913213009,
+      "color": "#008000",
+      "style": "wavy",
+      "note": ""
+    },
+    {
+      "quote": "I oppregnende definisjoner gjør «og» og «eller» ingen forskjell.",
+      "pageNumber": 274,
+      "chapter": "b Definisjoner som kan avledes fra andre utsagn",
+      "createdAt": 1756731034695,
+      "color": "#00b036",
+      "style": "wavy",
+      "note": "=\nViktig"
+    },
+    {
+      "quote": "tre krav til normative definisjoner: (i) definisjonen skal avklare betydningen til det definerte uttrykket iden aktuelle konteksten, (ii) definisjonen skal gi etomfang som verken er for vidt eller for snevert (når det definerte uttrykket er en generell betegnelse), og(iii) definisjonen skal være mest mulig avgjørbar",
+      "pageNumber": 275,
+      "chapter": "b Definisjoner som kan avledes fra andre utsagn",
+      "createdAt": 1756731204469,
+      "color": "#008000",
+      "style": "underline",
+      "note": ""
+    },
+    {
+      "quote": "Graden av relevans — i vår betydning av «relevans» – blir i rettskildelæren omtalt som argumentets «vekt».",
+      "pageNumber": 308,
+      "chapter": "",
+      "createdAt": 1757515632034,
+      "color": "#00b036",
+      "style": "wavy",
+      "note": "=\nArgumentets vekt"
+    },
+    {
+      "quote": "Innenfor rettskildelærens terminologi gir det derfor ikke mening å si at et argument er «svært relevant». Derimot kan et argument, i tråd med denne terminologien, ha «høy vekt».",
+      "pageNumber": 308,
+      "chapter": "",
+      "createdAt": 1757515813127,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": ""
+    },
+    {
+      "quote": "c Forholdet mellom resonnement, argumentdiagram og argumenterende tekst",
+      "pageNumber": 308,
+      "chapter": "",
+      "createdAt": 1757515846014,
+      "color": "#ee00ff",
+      "style": "highlight",
+      "note": "#"
+    },
+    {
+      "quote": "Det er alltid entydig – når vi først har satt opp argumentdiagrammet – om vi skal skrive «(h)» eller «(r)». Hvis pilen fra et argument går til et annet argument, har vi et holdbarhetsargument, men hvis pilen fra argumentet går til enannen pil, har vi et relevansargument.",
+      "pageNumber": 310,
+      "chapter": "b Standpunktargumenter og holdbarhets- og relevansargumenter",
+      "createdAt": 1757521443332,
+      "color": "#008000",
+      "style": "underline",
+      "note": ""
+    },
+    {
+      "quote": "Begrepene 'relevans' og 'implikasjon'",
+      "pageNumber": 314,
+      "chapter": "c Holdbarhet og relevans for ulike typer argumenter",
+      "createdAt": 1757523849910,
+      "color": "#00b036",
+      "style": "wavy",
+      "note": "#\nRelevans og implikasjon"
+    },
+    {
+      "quote": "Et argument kan være relevant uten å ha høy relevans, og minimumskravet til relevans er langt svakere enn et implikasjonsforhold",
+      "pageNumber": 315,
+      "chapter": "c Holdbarhet og relevans for ulike typer argumenter",
+      "createdAt": 1757524141816,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": ""
+    },
+    {
+      "quote": "Men i enhver sak finnes det i utgangspunktet minst to mulige standpunkter. I rettstvister er det alltid to ulike standpunkter — i motsatt fall ville det ikke vært en tvist",
+      "pageNumber": 317,
+      "chapter": "a Ulike standpunkter gir atskilte resonnementer",
+      "createdAt": 1757517868064,
+      "color": "#ee00ff",
+      "style": "highlight",
+      "note": ""
+    },
+    {
+      "quote": "bevistema er knyttet til rettsvilkåret i en rettsregel, og har således direkte rettslig relevans.",
+      "pageNumber": 323,
+      "chapter": "",
+      "createdAt": 1771404359251,
+      "color": "#00b036",
+      "style": "wavy",
+      "note": ""
+    },
+    {
+      "quote": "bevisfaktum, derimot, har i seg selv ikke direkte rettslig relevans – bevisfakta er mer å betrakte som hjelpemidler for tanken når man i den konkrete saken skal gjøre seg opp en mening om hvorvidt bevistemaet er tilstrekkelig bevist.",
+      "pageNumber": 323,
+      "chapter": "",
+      "createdAt": 1771404369063,
+      "color": "#00b036",
+      "style": "wavy",
+      "note": ""
+    },
+    {
+      "quote": "Det er vanlig å skille mellom tre ulike typer bevismidler, nemlig forklaringer, dokumenter og såkalte reelle bevismidler.",
+      "pageNumber": 327,
+      "chapter": "",
+      "createdAt": 1771404807092,
+      "color": "#00b036",
+      "style": "wavy",
+      "note": ""
+    },
+    {
+      "quote": "Holdbarhetsargumentene skiller seg her fra standpunktargumentene ved at de refererer til et bevismiddel, nærmere bestemt en forklaring.",
+      "pageNumber": 329,
+      "chapter": "",
+      "createdAt": 1771404956318,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": ""
+    },
+    {
+      "quote": "Adgangen til å føre dokumenter som bevis er likevel begrenset.",
+      "pageNumber": 331,
+      "chapter": "",
+      "createdAt": 1771405066421,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": ""
+    },
+    {
+      "quote": "I det norske rettssystemet gjelder det såkalte muntlighets- prinsippet, som går ut på at hovedforhandlingen i retten er muntlig.",
+      "pageNumber": 331,
+      "chapter": "",
+      "createdAt": 1771405074742,
+      "color": "#f0ff00",
+      "style": "mute",
+      "note": ""
+    },
+    {
+      "quote": "Det første nivået i notasjonen er selve standpunktet – her brukervi S1S2,... som notasjon for ulike standpunkter, som vi gjorde i seksjon 4.3. Det neste nivået er standpunktargumenter, og her bruker vi bokstaven «A».",
+      "pageNumber": 332,
+      "chapter": "b Standpunktargumenter og holdbarhets- og relevansargumenter",
+      "createdAt": 1757519943570,
+      "color": "#008000",
+      "style": "underline",
+      "note": ""
+    },
+    {
+      "quote": "Notasjon for holdbarhets- og relevansargumenter\nPå det neste nivået kommer holdbarhets- og relevansargumentene i forhold til standpunktargumentene. Vi bruker «P» når vi har et pro-argument, og «C» når vi har et contra-argument. Videre bruker vi «(h)» for å markere at vi har et holdbarhetsargument, og «(r)» for å markere at vi har et relevansargument.",
+      "pageNumber": 334,
+      "chapter": "b Standpunktargumenter og holdbarhets- og relevansargumenter",
+      "createdAt": 1757520063949,
+      "color": "#008000",
+      "style": "underline",
+      "note": ""
+    },
+    {
+      "quote": "På det neste nivået igjen kommer holdbarhets- og relevansargumenter knyttet til holdbarhets- eller relevansargumenter knyttet til standpunktargumenter.",
+      "pageNumber": 335,
+      "chapter": "b Standpunktargumenter og holdbarhets- og relevansargumenter",
+      "createdAt": 1757520175476,
+      "color": "#008000",
+      "style": "underline",
+      "note": ""
+    },
+    {
+      "quote": "Logiske og kunnskapsteoretiske problemstillinger",
+      "pageNumber": 335,
+      "chapter": "",
+      "createdAt": 1771405660686,
+      "color": "#ee00ff",
+      "style": "highlight",
+      "note": ""
+    }
+  ]
+}
